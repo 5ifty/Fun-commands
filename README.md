@@ -94,3 +94,5 @@ Noticeme- notice me senpai
 Highfive- Highfive a virtual bot, GGs in chat?
 
 Urban- Get an urban dictionary commnand(Must be in an NSFW channel due to the nature of the website)
+
+Boobs- See boobs, dirty boy.
