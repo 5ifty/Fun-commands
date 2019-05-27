@@ -89,7 +89,7 @@ Genius- Get song lyrics by your favourite people
 
 Cookie- Give yourself a cookie , your earnt it!
 
-Noticeme- notice me senpai
+Noticeme- Notice me senpai
 
 Highfive- Highfive a virtual bot, GGs in chat?
 
